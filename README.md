@@ -2,7 +2,7 @@
 
 <H3>Name : Aaliya Fathima M</H3>
 <H3>Register no. 212223230001</H3>
-<H3>Date</H3>
+<H3>Date 12.09.24</H3>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
